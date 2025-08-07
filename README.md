@@ -12,7 +12,7 @@
   - Thread-safe handling with `ConcurrentHashMap`
 - 📡 **Client-Server Architecture**
   - Java Sockets for networking
-  - Real-time communication via TCP
+  - Real-time communication via Java Socket
 - 🔒 **Synchronization**
   - Ensures consistency and safety of shared resources
 - 🧠 **Planned Features**
