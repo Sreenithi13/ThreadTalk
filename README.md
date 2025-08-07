@@ -18,7 +18,6 @@
 - 🧠 **Planned Features**
   - Sentiment analysis integration
   - Emoji support
-  - Typing indicators and notification sounds
   - Chat history logging with timestamps
 
 ---
